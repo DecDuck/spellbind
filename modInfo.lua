@@ -4,6 +4,8 @@ local modInfo = {
     type = "world",
     developer = "DecDuck",
     version = "0.0.1",
-    preview = "assets/preview.jpg",
+    preview = "assets/preview.png",
     website = "https://github.com/DecDuck/spellbind"
 }
+
+return modInfo
