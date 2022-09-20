@@ -1,3 +1,4 @@
+<!-- No idea how this works :( -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/assets/wide.png">
   <source media="(prefers-color-scheme: light)" srcset="/assets/wide_light.png">
