@@ -20,7 +20,7 @@ function spellbind:load()
             -- 0 for all
             -- 1 for partial
             -- 2 for no
-            limitedAbility = 0,
+            limitedAbility = 1,
             -- Sapiens know it already when they start
             startLearned = false
         },
@@ -39,7 +39,7 @@ function spellbind:load()
             -- 0 for all
             -- 1 for partial
             -- 2 for no
-            limitedAbility = 1,
+            limitedAbility = 2,
             startLearned = false
         },
         dependencies = {
@@ -58,7 +58,7 @@ function spellbind:load()
             -- 0 for all
             -- 1 for partial
             -- 2 for no
-            limitedAbility = 1,
+            limitedAbility = 2,
             startLearned = false
         },
         dependencies = {
@@ -77,7 +77,7 @@ function spellbind:load()
             -- 0 for all
             -- 1 for partial
             -- 2 for no
-            limitedAbility = 1,
+            limitedAbility = 2,
             startLearned = false
         },
         dependencies = {
@@ -96,7 +96,7 @@ function spellbind:load()
             -- 0 for all
             -- 1 for partial
             -- 2 for no
-            limitedAbility = 1,
+            limitedAbility = 2,
             startLearned = false
         },
         dependencies = {
