@@ -1,16 +1,12 @@
 ![](assets/wide.png)
 # Spellbind
-Spellbind is a magical overhaul mod for the Sapiens video game. Now your Sapiens can become wizards and witches, and use magic to their advantage!
+Spellbind is a magical overhaul mod for the Sapiens video game. Now your Sapiens can become wizards and witches, and use magic to survive!
 
-## Using
-Spellbind is in ***very*** early stages of development. There is next to no content, and is most likely *extremely* buggy. Anways...
-### Installing
-For unversioned releases, Spellbind often depends on modules not part of the core Hammerstone, so make sure to grab Hammerstone from my personal fork [here](https://github.com/DecDuck/hammerstone-framework)
+## About
+Check out the wiki for more information about the mod!
 
-For versioned releases, definitely get the proper Hammerstone, as it's much more stable and bug free.
-### Issues
-Open an issue [here](https://github.com/DecDuck/spellbind/issues/new)
-### Contributing
-Make a fork, make some changes, create Pull Request, as normal.
+## Installation
+Official installation is through the Steam Workshop - please find this mod on there. Support will only be offered to those who install from the Steam Workshop.
 
-I like moderately commented code, so make sure someone else knows what each option does. 
+### Using from source
+This mod depends on the Hammerstone Framework. You will need to install (most likely) a bleeding edge of Hammerstone as well.
